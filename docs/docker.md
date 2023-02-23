@@ -1,6 +1,6 @@
 # Docker Setup
 
-This document outlines how you can setup a containerized testing/development environment quickly using docker. Using a containerized dashboard image allows for a faster and reproducible test setup. We first have to build the Docker image and then run the container.
+This document outlines how you can setup a containerized testing/development environment quickly using docker. Using a containerized dashboard image allows for a faster and reproducible.
 
 ### TL;DR
 ```sh
